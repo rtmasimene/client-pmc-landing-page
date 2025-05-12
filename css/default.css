@@ -1,0 +1,81 @@
+a:hover {
+    color: #95cbdd;
+}
+
+
+/* menu */
+
+.nav>li>a:hover {
+    color: #95cbdd;
+}
+
+.navbar .navbar-nav>.active>a {
+    color: #95cbdd;
+    border-bottom: 4px solid #85b0be;
+}
+
+
+/* flexslider */
+
+.flex-control-paging li a {
+    background: #85b0be;
+}
+
+.testimonial span.author a {
+    color: #95cbdd;
+}
+
+
+/* --- icon box hover --- */
+
+.hi-icon-effect-5 .hi-icon {
+    color: #85b0be;
+    box-shadow: 0 0 0 4px #009fdc;
+}
+
+.no-touch .hi-icon-effect-5 .hi-icon:hover {
+    background: #85b0be;
+    box-shadow: 0 0 0 8px #009fdc;
+}
+
+
+/* portfolio */
+
+.portfolio-item .portfolio-desc {
+    background: #009fdc;
+}
+
+
+/* btn */
+
+.btn-theme {
+    background: #009fdc;
+}
+
+.btn-theme:hover,
+.btn-theme:focus,
+.btn-theme:active {
+    background: #009fdc;
+}
+
+.btn-cta,
+.btn-cta.btn-lg {
+    background: #009fdc;
+    border-color: #009fdc;
+}
+
+.btn-cta:focus,
+.btn-cta:active {
+    border-color: #009fdc;
+}
+
+
+/* footer */
+
+.social-circle li a {
+    background: #009fdc;
+}
+
+a.scrollup {
+    background: #009fdc;
+}
